@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/zhihu/?username=songwonderful&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
+  <img src="https://stats.justsong.cn/api/leetcode/?username=sdudend&theme=light&cn=true" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=hao-de-ni-34&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
 </p>
 
 *Cards provided by [https://github.com/songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards).*
@@ -33,4 +33,4 @@
 
 
 
-*Last updated on: 2022-10-20 18:14:15*
+*Last updated on: 2022-10-20 18:17:31*
