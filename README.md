@@ -18,12 +18,14 @@
 |[csapp-learn](https://github.com/xz2048/csapp-learn)|None|`0⭐`|
 |[javaLearn](https://github.com/xz2048/javaLearn)|None|`0⭐`|
 |[makeOS](https://github.com/xz2048/makeOS)|None|`0⭐`|
+|[springcloud-config](https://github.com/xz2048/springcloud-config)|None|`0⭐`|
 |[suanfati](https://github.com/xz2048/suanfati)|None|`0⭐`|
 |[use.js](https://github.com/xz2048/use.js)|None|`0⭐`|
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[springcloud-config](https://github.com/xz2048/springcloud-config)|None|![2022-11-25 21:13:24](https://img.shields.io/badge/2022--11--25-21%3A13%3A24-brightgreen?style=flat-square)|
 |[makeOS](https://github.com/xz2048/makeOS)|None|![2022-10-03 20:14:10](https://img.shields.io/badge/2022--10--03-20%3A14%3A10-brightgreen?style=flat-square)|
 |[javaLearn](https://github.com/xz2048/javaLearn)|None|![2022-08-11 13:19:05](https://img.shields.io/badge/2022--08--11-13%3A19%3A05-brightgreen?style=flat-square)|
 |[use.js](https://github.com/xz2048/use.js)|None|![2022-08-07 23:28:16](https://img.shields.io/badge/2022--08--07-23%3A28%3A16-brightgreen?style=flat-square)|
@@ -33,4 +35,4 @@
 
 
 
-*Last updated on: 2022-11-20 20:39:57*
+*Last updated on: 2022-11-27 20:37:26*
